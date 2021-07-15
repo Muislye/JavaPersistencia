@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author fco_g
  */
-public class MensajesService {
+public class mensajesService {
     public static void crearMensaje(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Escribe tu mensaje");
